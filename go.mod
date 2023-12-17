@@ -1,6 +1,6 @@
 module github.com/grokify/ringcentral-postman
 
-go 1.21.1
+go 1.21
 
 require (
 	github.com/grokify/spectrum v1.18.1
